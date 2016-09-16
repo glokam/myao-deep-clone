@@ -1,6 +1,10 @@
 # myao-deep-clone
 ## Deep Clone Your Object or Array
 
+[![Latest Stable Version](https://img.shields.io/npm/v/myao-deep-clone.svg)](https://www.npmjs.com/package/myao-deep-clone)
+[![License](https://img.shields.io/npm/l/myao-deep-clone.svg)](https://www.npmjs.com/package/myao-deep-clone)
+[![NPM Downloads](https://img.shields.io/npm/dm/myao-deep-clone.svg)](https://www.npmjs.com/package/myao-deep-clone)
+
 ### Install...
 
 ```js
