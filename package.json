@@ -1,6 +1,6 @@
 {
   "name": "myao-deep-clone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Deep Clone Your Object",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/glokam/myao-deep-clone.git"
   },
+  "keywords": [
+    "clone",
+    "deep clone",
+    "objects",
+    "arrays"  
+  ],
   "author": "Kamil Głowacki",
   "license": "MIT",
   "bugs": {
