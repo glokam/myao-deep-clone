@@ -36,3 +36,7 @@ function clone (obj) {
 }
 
 module.exports.deep = clone;
+
+module.exports.withJSON = function (obj) {
+    return JSON.parse(JSON.stringify(obj));
+}
